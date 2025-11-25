@@ -2,7 +2,11 @@
 
 A beautiful and intuitive Personal Finance Management app built with Flutter that helps you track your income and expenses effortlessly.
 
-![App Screenshot](https://via.placeholder.com/800x400/2196F3/ffffff?text=Finance+Tracker)
+## 📸 App Preview
+
+| Dashboard | Transactions | Reports |
+|-----------|-------------|---------|
+| <img src="screenshots/image.png" width="200" alt="Dashboard Screen"> | <img src="screenshots/image1.png" width="200" alt="Transactions Screen"> | <img src="screenshots/image2.png" width="200" alt="Reports Screen"> |
 
 ## ✨ Features
 
