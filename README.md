@@ -6,7 +6,7 @@ A beautiful and intuitive Personal Finance Management app built with Flutter tha
 
 | Dashboard | Transactions | Reports |
 |-----------|-------------|---------|
-| <img src="screenshots/image.png" width="200" alt="Dashboard Screen"> | <img src="screenshots/image1.png" width="200" alt="Transactions Screen"> | <img src="screenshots/image2.png" width="200" alt="Reports Screen"> |
+| <img src="screenshots/image.png" width="200" alt="Dashboard Screen"> | <img src="screenshots/image2.png" width="200" alt="Transactions Screen"> | <img src="screenshots/image1.png" width="200" alt="Reports Screen"> |
 
 ## ✨ Features
 
